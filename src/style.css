@@ -1,0 +1,6 @@
+#new_weather_form {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  width: 60%;
+}
