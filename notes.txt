@@ -1,0 +1,14 @@
+Make it look pretty!
+     - add some pictures to the results
+     - add time, date
+     - find lots of icons to display everything
+     
+Add a map!
+
+Search via place name
+
+Search via postal code
+
+Tidy up code and seperate into modules
+
+Sanitise user input as people can put anything in at the moment
